@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 504fd40152e486848870125fcb83bf4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - platformPrefab: {fileID: 7311098753930480938, guid: 2f4b6fbf584ff934d96da3e42ab2b2ce,
+      type: 3}
+  - spikePlatformPrefab: {fileID: 2807530160040102083, guid: c05d4484edd54e64d9f504063bd335d8,
+      type: 3}
+  - movingplatformright: {fileID: 3146218895204978453, guid: 617e334edc027bd4f8e6dd4d68b4883e,
+      type: 3}
+  - movingplatformleft: {fileID: 9101858627708021589, guid: 18e508d6c429dc54b936d9251e606946,
+      type: 3}
+  - breakablePlatformPrefab: {fileID: 182392332385501867, guid: 90368fb1408116247aa5b468aa16bb63,
+      type: 3}
+  - score: {instanceID: 0}
+  - back: {instanceID: 0}
+  - gameover: {instanceID: 0}
+  - restart: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
